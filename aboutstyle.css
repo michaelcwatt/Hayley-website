@@ -29,7 +29,7 @@
     
     }
 
-.test{
+.test p{
     background-color: transparent;
     position: relative;
     padding: 20px;
@@ -37,4 +37,9 @@
     font-weight: 600;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
+}
+
+.test h2{
+    position: relative;
+    background-color: red;
 }
