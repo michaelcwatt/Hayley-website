@@ -1,0 +1,40 @@
+@import url('https://fonts.googlepics.com/css2?family=poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+.header{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 20px;
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    }
+
+    .logo{
+        position: relative;
+        font-size: 25px;
+        color: black;
+        text-decoration: none;
+        font-weight: 600;
+    
+    }
+
+.test{
+    background-color: transparent;
+    position: relative;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+}
